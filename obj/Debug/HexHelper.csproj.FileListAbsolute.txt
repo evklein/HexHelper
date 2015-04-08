@@ -1,0 +1,9 @@
+C:\Users\Evan\General Dev\HexHelper\HexHelper\bin\Debug\HexHelper.exe.config
+C:\Users\Evan\General Dev\HexHelper\HexHelper\bin\Debug\HexHelper.exe
+C:\Users\Evan\General Dev\HexHelper\HexHelper\bin\Debug\HexHelper.pdb
+C:\Users\Evan\General Dev\HexHelper\HexHelper\obj\Debug\HexHelper.csprojResolveAssemblyReference.cache
+C:\Users\Evan\General Dev\HexHelper\HexHelper\obj\Debug\HexHelper.MainForm.resources
+C:\Users\Evan\General Dev\HexHelper\HexHelper\obj\Debug\HexHelper.Properties.Resources.resources
+C:\Users\Evan\General Dev\HexHelper\HexHelper\obj\Debug\HexHelper.csproj.GenerateResource.Cache
+C:\Users\Evan\General Dev\HexHelper\HexHelper\obj\Debug\HexHelper.exe
+C:\Users\Evan\General Dev\HexHelper\HexHelper\obj\Debug\HexHelper.pdb
